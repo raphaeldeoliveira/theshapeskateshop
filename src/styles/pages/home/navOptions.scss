@@ -1,0 +1,23 @@
+nav {
+    background-color: #673ab7;
+    color: white;
+
+    & > ul {
+        display: flex;
+        justify-content: space-between;
+        list-style: none;
+
+        li {
+            margin: 12px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        li:first-child {
+            margin-left: 60px;
+        }
+        li:last-child {
+            margin-right: 60px;
+        }
+    }
+}
