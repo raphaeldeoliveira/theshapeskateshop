@@ -10,7 +10,7 @@ export default function Header() {
 
     return (
         <header>
-            <img src={banner}/>
+            <img src={banner} alt=""/>
             <div className="searchBar">
                 <input type="text" placeholder="Search the Shop"></input>
                 <button>{<IoSearchSharp className="sgv--search"/>}</button>
