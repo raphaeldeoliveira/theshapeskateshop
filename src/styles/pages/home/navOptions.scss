@@ -1,5 +1,7 @@
+@import "../../global/colors.scss";
+
 nav {
-    background-color: #673ab7;
+    background-color: $primary-color;
     color: white;
 
     & > ul {
