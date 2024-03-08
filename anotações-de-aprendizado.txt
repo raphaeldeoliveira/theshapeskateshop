@@ -1,0 +1,3 @@
+REDUX:
+
+adicionar ao projeto: npm add redux react-redux
