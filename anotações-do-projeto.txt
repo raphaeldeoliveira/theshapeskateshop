@@ -1,0 +1,2 @@
+Nao vai ter filtro, quando clicar em um filtro (ex: spitfire), ele vai ficar com 
+'Busca por: Spitfire', nao vai ter aba de filtros
